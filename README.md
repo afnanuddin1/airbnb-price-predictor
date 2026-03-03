@@ -1,4 +1,4 @@
-# Airbnb NYC Price Predictor
+# Airbnb NYC Price Predictor 🏡
 
 A machine learning web app that predicts nightly Airbnb prices in New York City based on listing details. Built with Streamlit and a Random Forest model trained on the [NYC Airbnb Open Data (2019)](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) dataset.
 
